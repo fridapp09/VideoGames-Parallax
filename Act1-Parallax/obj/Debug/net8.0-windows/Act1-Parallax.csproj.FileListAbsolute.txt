@@ -1,0 +1,17 @@
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\bin\Debug\net8.0-windows\Act1-Parallax.exe
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\bin\Debug\net8.0-windows\Act1-Parallax.deps.json
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\bin\Debug\net8.0-windows\Act1-Parallax.runtimeconfig.json
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\bin\Debug\net8.0-windows\Act1-Parallax.dll
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\bin\Debug\net8.0-windows\Act1-Parallax.pdb
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\Act1_Parallax.MAIN_FORM.resources
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\Act1_Parallax.MyResource.resources
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\Act1-Parallax.csproj.GenerateResource.cache
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\Act1-Parallax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\Act1-Parallax.AssemblyInfoInputs.cache
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\Act1-Parallax.AssemblyInfo.cs
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\Act1-Parallax.csproj.CoreCompileInputs.cache
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\Act1-Parallax.dll
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\refint\Act1-Parallax.dll
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\Act1-Parallax.pdb
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\Act1-Parallax.genruntimeconfig.cache
+C:\Users\Frida\Documents\Visual Studio 2022\Act1-Parallax\Act1-Parallax\obj\Debug\net8.0-windows\ref\Act1-Parallax.dll
